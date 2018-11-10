@@ -1,4 +1,0 @@
-Use Case Diagrams
-Sequence Diagrams
-Class Diagrams
-Architecture Diagram
