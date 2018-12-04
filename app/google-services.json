@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985206461321",
+    "firebase_url": "https://chalktalk-1abad.firebaseio.com",
+    "project_id": "chalktalk-1abad",
+    "storage_bucket": "chalktalk-1abad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985206461321:android:697b878231757084",
+        "android_client_info": {
+          "package_name": "com.example.eilynn.chalktalklsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985206461321-sodjf5v5cm61263qi39qin3uicfesdkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eilynn.chalktalklsu",
+            "certificate_hash": "e502adc15a52a5aa158fc60c11c96a06b2047797"
+          }
+        },
+        {
+          "client_id": "985206461321-j5sllv5on4hehh57h63moictn2ac285j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnE35NzQz3qis8uSJ2FXjIXc2sVS2mbPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985206461321-j5sllv5on4hehh57h63moictn2ac285j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
